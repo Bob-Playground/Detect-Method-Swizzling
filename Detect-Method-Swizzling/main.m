@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Detection-Method-Swizzling
+//  Detect-Method-Swizzling
 //
-//  Created by HuangLibo on 2019/11/11.
+//  Created by HuangLibo on 2019/11/12.
 //  Copyright © 2019 HuangLibo. All rights reserved.
 //
 

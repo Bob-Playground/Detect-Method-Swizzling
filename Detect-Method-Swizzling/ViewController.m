@@ -40,7 +40,7 @@
 
     // 比较当前的 SEL 名和编译时的 SEL 名, 如果不一致, 则说明方法被 Hook 了.
     if (![originFunctionName isEqualToString:_cmdStr]) {
-        NSLog(@"Hooked");
+        NSLog(@"Warning: Method is Hooked!!!");
         // 检测到被 Hook 后, 可以做一些事情. 比如像微信那样提示用户可能会被封号.
         // ...
     }
