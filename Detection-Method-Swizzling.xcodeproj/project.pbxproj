@@ -14,6 +14,7 @@
 		71BF2E8E237988450006BA28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71BF2E8D237988450006BA28 /* Assets.xcassets */; };
 		71BF2E91237988450006BA28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71BF2E8F237988450006BA28 /* LaunchScreen.storyboard */; };
 		71BF2E94237988450006BA28 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 71BF2E93237988450006BA28 /* main.m */; };
+		71BF2E9C23799B0D0006BA28 /* ViewController+Hack.m in Sources */ = {isa = PBXBuildFile; fileRef = 71BF2E9B23799B0D0006BA28 /* ViewController+Hack.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		71BF2E90237988450006BA28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71BF2E92237988450006BA28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		71BF2E93237988450006BA28 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		71BF2E9A23799B0D0006BA28 /* ViewController+Hack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ViewController+Hack.h"; sourceTree = "<group>"; };
+		71BF2E9B23799B0D0006BA28 /* ViewController+Hack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "ViewController+Hack.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				71BF2E85237988430006BA28 /* SceneDelegate.m */,
 				71BF2E87237988430006BA28 /* ViewController.h */,
 				71BF2E88237988430006BA28 /* ViewController.m */,
+				71BF2E9A23799B0D0006BA28 /* ViewController+Hack.h */,
+				71BF2E9B23799B0D0006BA28 /* ViewController+Hack.m */,
 				71BF2E8A237988430006BA28 /* Main.storyboard */,
 				71BF2E8D237988450006BA28 /* Assets.xcassets */,
 				71BF2E8F237988450006BA28 /* LaunchScreen.storyboard */,
@@ -148,6 +153,7 @@
 			files = (
 				71BF2E89237988430006BA28 /* ViewController.m in Sources */,
 				71BF2E83237988430006BA28 /* AppDelegate.m in Sources */,
+				71BF2E9C23799B0D0006BA28 /* ViewController+Hack.m in Sources */,
 				71BF2E94237988450006BA28 /* main.m in Sources */,
 				71BF2E86237988430006BA28 /* SceneDelegate.m in Sources */,
 			);
